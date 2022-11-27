@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @daniele-aveta
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Retrofit
+- 👀 Interested in Java
+- 🌱 Currently learning Retrofit
 - 📫 How to reach me daniele.aveta@outlook.com
+- 💼 My Linkedin profile https://www.linkedin.com/in/daniele-aveta/
 
 <!---
 daniele-aveta/daniele-aveta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
