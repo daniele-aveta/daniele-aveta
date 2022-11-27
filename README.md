@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @daniele-aveta
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Retrofit
-- 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me daniele.aveta@outlook.com
 
 <!---
