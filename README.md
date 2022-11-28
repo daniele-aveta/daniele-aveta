@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniele Aveta
+- 👋 Hi I’m Daniele Aveta
 - 👀 Interested in Java
 - 🌱 Currently learning Retrofit
 - 📫 How to reach me daniele.aveta@outlook.com
