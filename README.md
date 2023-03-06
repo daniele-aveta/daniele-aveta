@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Daniele Aveta
 - 👀 Interested in Java
-- 🌱 Currently learning Retrofit
 - 📫 How to reach me daniele.aveta@outlook.com
 - 💼 My LinkedIn profile https://www.linkedin.com/in/daniele-aveta/
 <!---
