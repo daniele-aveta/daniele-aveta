@@ -3,7 +3,7 @@
 📚 Keen student learning something new every day.<br/>
 🙋‍♂️ Love engaging with people and good communication skills.<br/>
 🌍 Interests: jogging, cooking, traveling, comedy enthusiast & amateur photographer.<br/>
-🩸 Blood donor and firm believer of community work.<br/>
+🩸 Blood donor and firm believer of community collaboration.<br/>
 <!---
 daniele-aveta/daniele-aveta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
