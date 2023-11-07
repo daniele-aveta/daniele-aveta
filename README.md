@@ -1,7 +1,7 @@
 💼 Lead developer at @Pesciaflor.<br/>
 💻 Seasoned developer with the Instant Developer Framework by ProGamma, Java & PostgreSQL.<br/>
-📚 Honing my expertise and studying something new every day.<br/>
-🙋‍♂️ Love engaging with people and good communication skills.<br/>
+📚 Keen student learning something new every day.<br/>
+🙋‍♂️ Love engaging with people.<br/>
 🌍 Interests: traveling, hiking, jogging, cooking, comedy & photography.<br/>
 🩸 Blood donor and firm believer of community collaboration.<br/>
 <!---
