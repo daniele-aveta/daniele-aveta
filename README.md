@@ -1,7 +1,5 @@
 💼 Lead developer at Pesciaflor.<br/>
 💻 Seasoned developer in INDE (Framework by ProGamma), Java & PostgreSQL.<br/>
-📚 Keen student learning something new every day.<br/>
-🙋‍♂️ Love engaging with people.<br/>
 🩸 Blood donor and firm believer of community collaboration.<br/>
 🌍 Interests: coding, traveling, hiking, cooking, comedy, photography & reading.<br/>
 <!---
