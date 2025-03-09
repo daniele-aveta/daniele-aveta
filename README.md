@@ -33,7 +33,7 @@
 <h3 align="left">My StackOverflow</h3>
 <p>
   <a href="https://stackoverflow.com/users/4415625/" target="blank">
-    <img align="center" src="https://stackoverflow.com/users/flair/4415625.png" alt="profile for dani-vta at Stack Overflow" width="208" height="58" />
+    <img align="center" src="https://stackoverflow.com/users/flair/4415625.png?theme=dark" alt="profile for dani-vta at Stack Overflow" width="208" height="58" />
   </a>
 </p>
 
