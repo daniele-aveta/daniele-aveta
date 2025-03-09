@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/daniele-aveta/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4415625/"><img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico" width="208" height="58" alt="profile for dani-vta at Stack Overflow" title="profile for dani-vta at Stack Overflow"></a>
+<a href="https://stackoverflow.com/users/4415625/"><img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico" width="40" height="30" alt="profile for dani-vta at Stack Overflow" title="profile for dani-vta at Stack Overflow"></a>
 <a href="https://stackoverflow.com/users/4415625/" target="blank"><img align="center" src="https://stackoverflow.com/users/flair/4415625.png" alt="profile for dani-vta at Stack Overflow" height="30" width="40" /></a>
 </p>
 
