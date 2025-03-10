@@ -1,7 +1,7 @@
 <h1 align="center">Daniele Aveta</h1>
 
 - 💼 Lead developer at Pesciaflor.<br/>
-- 💻 Seasoned developer in INDE (Framework by ProGamma), Java, PostgreSQL & Git.<br/>
+- 💻 Seasoned developer in Java, Git, INDE Framework, & PostgreSQL.<br/>
 - 🩸 Blood donor and firm believer of community collaboration.<br/>
 - 🌍 Interests: coding, traveling, cooking, comedy, reading.<br/>
 
