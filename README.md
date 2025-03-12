@@ -2,7 +2,7 @@
 
 - 💼 Lead developer at Pesciaflor.<br/>
 - 💻 Seasoned developer in Java, Git, INDE Framework, & PostgreSQL.<br/>
-- 🩸 Blood donor and firm believer of community collaboration.<br/>
+- 🤝 Blood donor and firm believer of community collaboration.<br/>
 - 🌍 Interests: coding, traveling, cooking, comedy, reading.<br/>
 
 <h3 align="left">Languages and Tools</h3>
