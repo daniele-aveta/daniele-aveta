@@ -50,8 +50,7 @@
 <h3 align="left">Stats</h3>
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <!--<img src="https://github-profile-trophy.vercel.app/?username=daniele-aveta" alt="Profile Throphies" />-->
-    [![trophy](https://github-profile-trophy.vercel.app/?username=daniele-aveta)](https://github.com/ryo-ma/github-profile-trophy)
+    <img src="https://github-profile-trophy.vercel.app/?username=daniele-aveta" alt="Profile Throphies" />
   </a> 
 </p>
 <p align="left">
