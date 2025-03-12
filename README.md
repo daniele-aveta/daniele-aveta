@@ -50,7 +50,7 @@
 <h3 align="left">Stats</h3>
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=daniele-aveta&row=2&column=4&title=-Commits,-Experience,-Repositories,-Stars" alt="Profile Throphies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=daniele-aveta&row=2&column=4&title=Commits,Experience,Repositories,Stars" alt="Profile Throphies" />
   </a> 
 </p>
 <p align="left">
